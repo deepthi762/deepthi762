@@ -11,6 +11,8 @@
 - 🔭 I’m currently working on **Resume builder**
 
 - 📫 How to reach me **rdeepthi0213@gmail.com**
+  
+- 💬 Ask me about Html , Css , Js , React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
