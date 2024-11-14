@@ -29,5 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepthi762&show_icons=true&locale=en" alt="deepthi762" /></p>
 
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/5b8310df940fbbbfc2cc5ae0ce3ce07897af010dcb34f441e22616c3a8f35ae8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6465657074686937363226" alt="deepthi762" /></p>
 
 
