@@ -5,7 +5,7 @@
 
 - 🌱 Currently Exploring: Advanced React, API integrations, and Serverless Architectures
   
-- 👨‍💻 All of my projects are available at [https://thriving-gingersnap-b5393c.netlify.app/](https://thriving-gingersnap-b5393c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://thriving-gingersnap-b5393c.netlify.app/](https://polite-bienenstitch-6aaf3a.netlify.app/)
   
 - 🚀 Goal: To master MERN stack development and contribute to impactful projects
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
